@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="myStyle" parent="TextAppearance.AppCompat.Large">
+        <item name="android:paddingTop">@dimen/padding</item>
+        <item name="android:paddingStart">@dimen/padding</item>
+        <item name="paddingEnd">@dimen/padding</item>
+        <item name="android:paddingBottom">@dimen/padding</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>

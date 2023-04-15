@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Recycler View</string>
+    <string name="item_one">Item 1</string>
+    <string name="item_twp">Item 2</string>
+    <string name="item_three">Item 3</string>
+    <string name="item_four">Item 4</string>
+    <string name="placeholder">Placeholder</string>
+</resources>
